@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">Software Engineer  🌷 Frontend Developer 🌷 iOS Developer 🌷 Data Science M.Sc. Student<br><br>I enjoy implementing pretty interfaces, useful products, and occasionally analyzing things with data ✨<br><br>Check my portfolio for more!</p>
+<p data-importer="text" align="left">Software Engineer  🌷 Frontend Developer 🌷 iOS Developer 🌷 Data Science M.Sc. Student<br><br>I enjoy implementing pretty interfaces and occasionally analyzing things with data, usually using these languages:</p>
 
 ###
 
@@ -25,6 +25,9 @@
 </div>
 
 ###
+
+🔗 You can explore more of my projects, research, and work on my [portfolio](https://cerenakyr.github.io/).
+
 
 
 ###
