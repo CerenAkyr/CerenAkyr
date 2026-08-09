@@ -2,13 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">Software Engineer  🌷 Frontend Developer 🌷 iOS Developer 🌷 Data Science M.Sc. Student<br><br>I enjoy implementing pretty interfaces, useful products, and occasionally analyzing things with data ✨<br><br>This only shows public repos, but here are some stats:</p>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/CerenAkyr/CerenAkyr/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+<p data-importer="text" align="left">Software Engineer  🌷 Frontend Developer 🌷 iOS Developer 🌷 Data Science M.Sc. Student<br><br>I enjoy implementing pretty interfaces, useful products, and occasionally analyzing things with data ✨<br><br>Check my portfolio for more!</p>
 
 ###
 
